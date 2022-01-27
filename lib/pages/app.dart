@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'navigator_demo.dart';
 
 class MyApp extends StatelessWidget {
